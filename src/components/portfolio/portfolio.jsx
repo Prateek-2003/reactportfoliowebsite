@@ -1,8 +1,8 @@
 import React from 'react'
 import './portfolio.css'
-import IMG1 from '../../assets/img1.webp'
-import IMG2 from '../../assets/img2.webp'
-import IMG3 from '../../assets/img3.webp'
+import IMG1 from '../../assets/carrental.png'
+import IMG2 from '../../assets/weather.png'
+import IMG3 from '../../assets/notes.png'
 
 const portfolio = () => {
   return (
@@ -17,8 +17,8 @@ const portfolio = () => {
           </div>
           <h3>This is a portfolio item title</h3>
           <div className="portfolio_item-cta">
-          <a href="https://github.com" className='btn'>Github</a>
-          <a href="https://github.com" className='btn btn-primary' target={'_blank'}>Live Demo</a>
+          <a href="https://github.com/Prateek-2003/CarRental" className='btn'>Github</a>
+          <a href="https://carrental-x7uq.onrender.com" className='btn btn-primary' target={'_blank'}>Live Demo</a>
           </div>
         </article>
 
@@ -28,8 +28,8 @@ const portfolio = () => {
           </div>
           <h3>This is a portfolio item title</h3>
           <div className="portfolio_item-cta">
-          <a href="https://github.com" className='btn'>Github</a>
-          <a href="https://github.com" className='btn btn-primary' target={'_blank'}>Live Demo</a>
+          <a href="https://github.com/Prateek-2003/WeatherForecastapp" className='btn'>Github</a>
+          <a href="https://prateek-2003.github.io/WeatherForecastapp/" className='btn btn-primary' target={'_blank'}>Live Demo</a>
           </div>
         </article>
 
@@ -39,8 +39,8 @@ const portfolio = () => {
           </div>
           <h3>This is a portfolio item title</h3>
           <div className="portfolio_item-cta">
-          <a href="https://github.com" className='btn'>Github</a>
-          <a href="https://github.com" className='btn btn-primary' target={'_blank'}>Live Demo</a>
+          <a href="https://github.com/Prateek-2003/noteTakingApp" className='btn'>Github</a>
+          <a href="https://prateek-2003.github.io/noteTakingApp/" className='btn btn-primary' target={'_blank'}>Live Demo</a>
           </div>
         </article>
       </div>
