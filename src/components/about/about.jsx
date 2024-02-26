@@ -21,23 +21,25 @@ const about = () => {
           <div className="about_cards">
             <article className='about_card'>
               <FaAward className='about_icon'/>
-              <h5>Education</h5>
-              <small>sfjoeejf erfeq</small>
+              <h5>Behavioral Skills</h5>
+              <small>Patience, Active Listening, Hardworking</small>
             </article>
 
             <article className='about_card'>
               <FiUsers className='about_icon'/>
-              <h5>Clients</h5>
-              <small>sfjoeejf erfeq</small>
+              <h5>Hobby</h5>
+              <small>Passionate about cricket</small>
             </article>
 
             <article className='about_card'>
               <VscFolderLibrary className='about_icon'/>
-              <h5>Projects</h5>
-              <small>sfjoeejf erfeq</small>
+              <h5>Values</h5>
+              <small>I prioritize ethics and quality in all aspects of my work, fostering trust and delivering impactful results</small>
             </article>
           </div>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate praesentium at ab sint, obcaecati eligendi.</p>
+          <p>Highly disciplined and organized individual seeking an entry-level position to apply
+academic knowledge and develop practical skills. Hardworking, analytically-minded
+and ready to contribute to the success of an organization.</p>
         </div>
       </div>
     </section>
