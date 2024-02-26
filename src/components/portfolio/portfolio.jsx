@@ -15,7 +15,7 @@ const portfolio = () => {
           <div className='portfolio_item-image'>
           <img src={IMG1} alt="" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Fullstack Car Rental Website</h3>
           <div className="portfolio_item-cta">
           <a href="https://github.com/Prateek-2003/CarRental" className='btn'>Github</a>
           <a href="https://carrental-x7uq.onrender.com" className='btn btn-primary' target={'_blank'}>Live Demo</a>
@@ -26,7 +26,7 @@ const portfolio = () => {
           <div className='portfolio_item-image'>
           <img src={IMG2} alt="" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Weather Webapp</h3>
           <div className="portfolio_item-cta">
           <a href="https://github.com/Prateek-2003/WeatherForecastapp" className='btn'>Github</a>
           <a href="https://prateek-2003.github.io/WeatherForecastapp/" className='btn btn-primary' target={'_blank'}>Live Demo</a>
@@ -37,7 +37,7 @@ const portfolio = () => {
           <div className='portfolio_item-image'>
           <img src={IMG3} alt="" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Notes Taking Webapp</h3>
           <div className="portfolio_item-cta">
           <a href="https://github.com/Prateek-2003/noteTakingApp" className='btn'>Github</a>
           <a href="https://prateek-2003.github.io/noteTakingApp/" className='btn btn-primary' target={'_blank'}>Live Demo</a>
