@@ -1,9 +1,9 @@
 import  React  from 'react';
 import './testimonial.css'
 import AVATAR from '../../assets/avatar1.png'
-import { Swiper, SwiperSlide } from 'swiper/react/swiper-react';
+import { Swiper, SwiperSlide } from 'swiper/react';
 
-import 'swiper/core/classes'
+//import 'swiper/core/classes'
 
 const data = [
   {
